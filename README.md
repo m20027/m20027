@@ -2,8 +2,10 @@
 - 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
 - 🌱 I’m currently learning electrical and electronic at technical college.
 - 💞️ I’m looking to become a researcher.
+- 🏠 Live in Japan
 
 # What am I do?
+- On the Github, I'm manageing the LaTex code(for class and exam),  
 
 
 <!---
