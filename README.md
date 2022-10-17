@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m20027
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning electrical and electronic.
+- 🌱 I’m currently learning electrical and electronic at technical college.
 - 💞️ I’m looking to become a researcher.
 - 📫 How to reach me ...
 
