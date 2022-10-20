@@ -15,7 +15,7 @@
 
 Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m20027&repo=TMCIT-3rd-Report)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m20027&repo=TMCIT-3rd-Report)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/m20027/TMCIT-3rd-Report))
 
 I'm planing to updating this profile and repository.
 Thank you for reading.
