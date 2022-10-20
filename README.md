@@ -1,4 +1,5 @@
-[![Followers](https://badgen.org/img/zenn/kou_pg_0131/followers?style=plastic)]()
+[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027)
+[![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 
 - 👋 I’m @m20027
 - 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
