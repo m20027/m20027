@@ -1,6 +1,10 @@
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027)
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=koki-develop&theme=react)](https://github.com/koki-develop?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koki-develop&theme=react)](https://github.com/koki-develop?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-develop&theme=react)]([https://github.com/koki-develop?tab=repositories](https://github.com/m20027?tab=repositories))
+
 - 👋 I’m @m20027
 - 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
 - 🌱 I’m currently learning electrical and electronic at technical college.
