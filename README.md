@@ -2,6 +2,7 @@
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m20027)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 I’m @m20027
 - 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
