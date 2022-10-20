@@ -1,3 +1,5 @@
+[![Followers](https://badgen.org/img/zenn/kou_pg_0131/followers?style=plastic)](https://zenn.dev/kou_pg_0131)
+
 - 👋 I’m @m20027
 - 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
 - 🌱 I’m currently learning electrical and electronic at technical college.
