@@ -2,6 +2,8 @@
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
 
+![image](https://github.com/m20027/m20027/blob/5b03d1e8b29d1f033183462f3dcf70d8994308aa/03_01_photo.jpg)
+
 <div align="center"> 
 <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
