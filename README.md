@@ -1,7 +1,7 @@
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027)
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
-<a href="https://scholar.google.com/citations?user=wf9rol4AAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=wf9rol4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
 <img src="https://addons.mozilla.org/user-media/addon_icons/602/602626-64.png?modified=1628718767" width="20">
 </a>
 
