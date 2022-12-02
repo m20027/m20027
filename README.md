@@ -15,7 +15,6 @@
 </div>
 
 - 👋 I’m @m20027
-- 👀 I’m interested in Science, thechnology, Book, Movie, Music ...
 - 🌱 I’m currently learning electrical and electronic at technical college.
 - 💞️ I’m looking to become a researcher.
 - 🏠 Live in Japan
@@ -23,6 +22,9 @@
 # What am I do?
 - On the Github, I'm manageing the LaTex and the other langages code(for class and exam). And this is for back up too.
 
+# My Career
+- Born in Japan in 2004. 
+     
 Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m20027&repo=TMCIT-3rd-Report)](https://github.com/m20027/TMCIT-3rd-Report)
