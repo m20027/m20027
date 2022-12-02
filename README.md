@@ -21,11 +21,12 @@
 
 # What am I do?
 - On the Github, I'm manageing the LaTex and the other langages code(for class and exam). And this is for back up too.
+- 
 
 # My Career
 - Born in Japan in 2004. 
      
-Top Repositories
+# Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m20027&repo=TMCIT-3rd-Report)](https://github.com/m20027/TMCIT-3rd-Report)
 
