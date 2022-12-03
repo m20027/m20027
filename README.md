@@ -25,6 +25,8 @@
 
 # My Career
 - Born in Japan in 2004. 
+- Enter Tokyo Metropolitan College of Industrial Technology(TMCIT)in 2019.
+- 
      
 # Top Repositories
 
