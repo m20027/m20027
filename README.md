@@ -7,7 +7,7 @@
 <!--
 ![image](https://github.com/m20027/m20027/blob/main/image.png)
 -->
-
+<img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6MTIsIm1vdXRoIjo2LCJleWVzIjoxMCwiZXllYnJvd3MiOjksImdsYXNzZXMiOjEyLCJoYWlyIjo2LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=" alt="notion avatar">
 <div align="center"> 
 <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
