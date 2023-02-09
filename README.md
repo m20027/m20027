@@ -9,7 +9,7 @@
 -->
 
 <div align="center"> 
-     <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6MTIsIm1vdXRoIjo2LCJleWVzIjoxMCwiZXllYnJvd3MiOjksImdsYXNzZXMiOjEyLCJoYWlyIjo2LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=" alt="notion avatar">
+     <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6MTIsIm1vdXRoIjo2LCJleWVzIjoxMCwiZXllYnJvd3MiOjksImdsYXNzZXMiOjEyLCJoYWlyIjo2LCJhY2Nlc3NvcmllcyI6MTMsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9" alt="notion avatar">
      <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
 <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
