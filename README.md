@@ -33,9 +33,6 @@
      
 # Top Repositories
 
-
-I'm planing to updating this profile and repository.
-
 Thank you for reading.
 
 <!---
