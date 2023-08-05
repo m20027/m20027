@@ -17,12 +17,12 @@
 </div>
 
 - 👋 I’m @m20027
-- 🌱 I’m currently learning electrical and electronic at technical college.
+- 🌱 I’m currently studying electrical and electronics at technical college.
 - 💞️ I’m looking to become a researcher.
 - 🏠 Live in Japan
 
-# What am I do?
-- On the Github, I'm manageing the LaTex and the other langages code(for class and exam). And this is for back up too.
+# What am I doing?
+- 
 - 
 
 # My Career
