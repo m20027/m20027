@@ -4,6 +4,7 @@
 <a href="https://scholar.google.com/citations?user=wf9rol4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
 <img src="https://addons.mozilla.org/user-media/addon_icons/602/602626-64.png?modified=1628718767" width="20">
 </a>
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 <!--
 ![image](https://github.com/m20027/m20027/blob/main/image.png)
 -->
