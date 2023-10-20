@@ -5,12 +5,12 @@
 <img src="https://addons.mozilla.org/user-media/addon_icons/602/602626-64.png?modified=1628718767" width="20">
 </a>
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black">
 <!--
 ![image](https://github.com/m20027/m20027/blob/main/image.png)
 -->
 
 <div align="center"> 
-     <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6MTIsIm1vdXRoIjo2LCJleWVzIjoxMCwiZXllYnJvd3MiOjksImdsYXNzZXMiOjEyLCJoYWlyIjo2LCJhY2Nlc3NvcmllcyI6MTMsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9" alt="notion avatar">
      <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
 <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
