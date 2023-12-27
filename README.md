@@ -23,7 +23,7 @@
 - 🏠 Live in Japan
 
 # What am I doing?
-- 
+- Resource Management for Distributed Wireless Network
 - 
 
 # My Career
