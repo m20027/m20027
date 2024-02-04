@@ -19,7 +19,7 @@
 - 💞️ I’m looking to become a researcher.
 - 🏠 Live in Japan
 
-# What am I doing?
+# Research Topics
 - Resource Management for Distributed Wireless Network
 - 
 
