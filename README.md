@@ -18,7 +18,7 @@
 </div>
 
 - 👋 I’m @m20027
-- 🌱 I’m currently studying electrical and electronics at technical college.
+- 🌱 I’m currently studying electrical and electronics at technical college in Tokyo.
 - 💞️ I’m looking to become a researcher.
 - 🏠 Live in Japan
 
@@ -31,11 +31,6 @@
 - Enter Tokyo Metropolitan College of Industrial Technology(TMCIT) in 2019.
 - Join Inage's lab.
 - 
-     
-# Top Repositories
-
-Thank you for reading.
-
 <!---
 m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
