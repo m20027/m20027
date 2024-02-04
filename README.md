@@ -14,7 +14,7 @@
 </a>
 </div>
 
-- 👋 I’m @m20027
+# Under construct
 - 🌱 I’m currently studying electrical and electronics at technical college in Tokyo.
 - 💞️ I’m looking to become a researcher.
 - 🏠 Live in Japan
