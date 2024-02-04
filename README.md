@@ -6,10 +6,8 @@
 </a>
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 <img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black">
-<!--
-![image](https://github.com/m20027/m20027/blob/main/image.png)
--->
 
+# My Status
 <div align="center"> 
      <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
