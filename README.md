@@ -29,7 +29,7 @@
 - Join Inage's lab.
 
   
-<img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black" width="10%" height="10%">
+<img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="20%">
 <!---
 m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
