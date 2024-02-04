@@ -25,8 +25,8 @@
 - 
 
 # My Career
-- Born in Japan in 2004. 
-- Enter Tokyo Metropolitan College of Industrial Technology(TMCIT) in 2019.
+- 2004 Born in Japan
+- 2019 Enter Tokyo Metropolitan College of Industrial Technology (TMCIT)
 - Join Inage's lab.
 - 
 <!---
