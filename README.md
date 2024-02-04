@@ -1,3 +1,8 @@
+# Kazuaki OHYAMA
+I’m currently studying electrical and electronics at technical college in Tokyo.
+Looking to become a researcher.
+
+# My Status
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027)
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
@@ -6,18 +11,12 @@
 </a>
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# My Status
 <div align="center"> 
      <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
 </a>
 <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
 </a>
 </div>
-
-# Under construct
-- 🌱 I’m currently studying electrical and electronics at technical college in Tokyo.
-- 💞️ I’m looking to become a researcher.
-- 🏠 Live in Japan
 
 # Research Interests
 - Resource Management for Distributed Wireless Network
