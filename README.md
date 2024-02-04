@@ -5,7 +5,6 @@
 <img src="https://addons.mozilla.org/user-media/addon_icons/602/602626-64.png?modified=1628718767" width="20">
 </a>
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-<img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black",width="90%" height="90%>
 
 # My Status
 <div align="center"> 
@@ -28,7 +27,9 @@
 - 2004 Born in Japan
 - 2019 Enter Tokyo Metropolitan College of Industrial Technology (TMCIT)
 - Join Inage's lab.
-- 
+
+  
+<img src="https://github.com/m20027/m20027/blob/main/affiliate-black.svg" alt="notion-affiliate-black" width="10%" height="10%">
 <!---
 m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
