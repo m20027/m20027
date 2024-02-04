@@ -30,7 +30,7 @@ Looking to become a researcher.
 # Awards
 
 # Join Also
-<img src="https://github.com/m20027/m20027/photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="20%">
+<img src="https://github.com/m20027/m20027/blob/main/photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="20%">
 <!---
 m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
