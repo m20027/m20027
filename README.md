@@ -12,8 +12,7 @@ Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan 
 </div>
 
 # Status
-[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) <a href="https://scholar.google.com/citations?user=wf9rol4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> <img src="https://addons.mozilla.org/user-media/addon_icons/602/602626-64.png?modified=1628718767" width="20">
-</a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <div align="center"> 
      <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
@@ -22,9 +21,8 @@ Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan 
 </div>
 
 # Biography
-<!--
-I’m currently studying electrical and electronics at a technical college in Tokyo.
--->
+Kazuaki Ohyama was born in Chiba, Japan in 2004.
+He learned electrical at TMCIT (one of KOSEN).
 
 # Education
 - 2019 Enrollment in the Tokyo Metropolitan College of Industrial Technology ([TMCIT](https://www.metro-cit.ac.jp/))
@@ -39,13 +37,17 @@ I’m currently studying electrical and electronics at a technical college in To
 
 ## Keywords
 
+## Past objects
+
 # Academic Society
-- 
+- The Institute of Electronics, Information and Communication Engineers (IEICE)
 
 # Selected Publications
-- 
+- Not yet
 
+See also Google Scholar.
 # Conferences
+- Not yet
 
 # Other Works
 
