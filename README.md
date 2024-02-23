@@ -1,6 +1,4 @@
-<!--
-Curriculum Vitae of Kazuaki Ohyama
--->
+<!-- Curriculum Vitae of Kazuaki Ohyama -->
 
 # Kazuaki OHYAMA
 <div style="text-align: right;">
@@ -25,8 +23,8 @@ Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned electrical at TMCIT (one of KOSEN).
 
 # Education
-- Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan)/ Apr. 2019 - Mar. 
-	- Department of Electrical and Electronic Engineering Program/ Apr. 2021
+- Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) / Apr. 2019 - Mar. 
+	- Department of Electrical and Electronic Engineering Program / Apr. 2021
 	- Inage lab/ Apr. 2023
 - Enter ...
 
@@ -49,6 +47,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
+- 
 
 # Research
 <!--
@@ -68,8 +67,6 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 - Resource Management 
 - Distributed Wireless Network
 
-## Past Topics
-
 ## Academic Society
 - The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member
 
@@ -81,8 +78,6 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 [1] J. B. Hartle and S. W. Hawking, “Wave Function of the Universe,” Physical Review D, Vol. 28, Iss. 12, December 1983
 [2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
 
-
-See also Google Scholar.
 # Presentations
 <!--
 この項目では学会参加経験、研究発表、スピーチ、もしくはセミナー、講演など過去にオーディエンスの前でプレゼンテーションを行った経験のリストを作成しましょう。
@@ -109,7 +104,7 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 <!--
 課外活動歴の項目にはこれまで自分が参加した部活動、クラブ、団体でリーダーシップを発揮した経験、もしくはボランティア活動等を記します。この項目は高校から大学への入学審査において一般的に重要視されますが、大学院に進学を希望する学生に教授が期待するのは専門分野での経験（研究、発表、論文執筆、実験スキル等）であり、その他の項目と比べると重要度は下がるといえます。ただ、自分の研究分野に関連する課外活動はとても重要なのでこの項目では研究に関係の無い課外活動をまとめるに留め、研究に関する活動は上記の研究/指導経験に含んでも良いかもしれません。
 -->
-- XPLANE Facilitator/ Apr. 2023 -
+- XPLANE Facilitator / Apr. 2023 -
 
 # Awards & Honors
 <!--
