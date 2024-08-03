@@ -26,7 +26,7 @@ He learned electrical at TMCIT (one of KOSEN).
 - Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) / Apr. 2019 - Mar. 
 	- Department of Electrical and Electronic Engineering Program / Apr. 2021
 	- Inage lab/ Apr. 2023
-- Enter ...
+- Enter Tokyo Metropolitan University expected()...
 
 <!--
 アカデミアで主に用いられるCVを作成するにあたって、学歴の項目はとても重要です。名前と連絡先の項目の次に明記しましょう。この項目に記す情報は以下の通りです。
