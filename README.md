@@ -13,8 +13,8 @@ Tokyo Metropolitan College of Industrial Technology
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <div align="center"> 
-     <img height=250 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
-</a> <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
+     <img height=200 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
+</a> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
 </a>
 </div>
 
