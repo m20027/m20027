@@ -20,7 +20,7 @@ Tokyo Metropolitan College of Industrial Technology
 
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
-He learned electrical at TMCIT (one of KOSEN).
+He learned electrical at Tokyo Metropolitan College of Industrial Technology (TMCIT).
 
 # Education
 - Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) / Apr. 2019 - Mar. 
