@@ -12,12 +12,6 @@ Tokyo Metropolitan College of Industrial Technology
 # Status
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-<div align="center"> 
-     <img height=200 src="https://github-readme-stats.vercel.app/api?username=m20027&show_icons=true&theme=dark&lcache_seconds=1800&count_private=true&locale=en&langs_count=10" alt=Anurag's GitHub stats"/>
-</a> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=m20027&theme=dark" alt=Top Langs/>
-</a>
-</div>
-
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned electrical at Tokyo Metropolitan College of Industrial Technology (TMCIT).
@@ -48,7 +42,8 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
-- 
+-
+Associate Degree (expected)
 
 # Research
 <!--
@@ -102,12 +97,14 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 -->
 
 # Extracurricular Activities
+- 
 <!--
 課外活動歴の項目にはこれまで自分が参加した部活動、クラブ、団体でリーダーシップを発揮した経験、もしくはボランティア活動等を記します。この項目は高校から大学への入学審査において一般的に重要視されますが、大学院に進学を希望する学生に教授が期待するのは専門分野での経験（研究、発表、論文執筆、実験スキル等）であり、その他の項目と比べると重要度は下がるといえます。ただ、自分の研究分野に関連する課外活動はとても重要なのでこの項目では研究に関係の無い課外活動をまとめるに留め、研究に関する活動は上記の研究/指導経験に含んでも良いかもしれません。
 -->
 - XPLANE Facilitator / Apr. 2023 -
 
 # Awards & Honors
+- 
 <!--
 研究に関連してこれまでに獲得した賞（最優秀論文賞や学科長賞）、課外活動や大会での受賞歴、奨学金、大学での成績優秀賞、研究資金獲得歴などをここにまとめましょう。長くなりすぎない限り、それぞれの賞の簡単な概要（どんな実績に対して賞が与えられるか）を載せても良いかもしれません。
 
@@ -117,13 +114,13 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 -->
 
 # Skill & Certification
-- C, Python
+- Mac
+- Working knowledge: C, Python
 <!--
 自分が持つ専門分野に関連したスキル及び資格のリストを作成しましょう。例えばエンジニアリングでは実験スキル、電子工作スキル、機械加工スキル、プログラミング言語などが挙げられますが、研究分野によって必要なスキルは大きく異なります。このスキルは一長一短で身に付くものでは無いので、しっかり長期的な目線を持って出願に間に合うように各種スキルを磨くようにしてください。
 
 Tips：Expert…C/C++, Machining; Proficient…R, Python, Welding; Working knowledge…のように、レベル別で整理する形式もよく見受けられます 。
 -->
-
 
 </ul>
 <img src="./photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="13%"> 
