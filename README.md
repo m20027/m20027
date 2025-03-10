@@ -83,11 +83,8 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Selected Publications
 <!--
-ここでは自分が今まで著者として執筆した出版物のリストを載せましょう。ここの書式は自分の分野で使われる引用文献のスタイルにしっかり法って書くことが大切です。下に記した例のように、自分の名前がどこにあるかを強調するために太字を使ったりと工夫をしてみてください。
-
-例：
-[1] J. B. Hartle and S. W. Hawking, “Wave Function of the Universe,” Physical Review D, Vol. 28, Iss. 12, December 1983
-[2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
+ここでは自分が今まで著者として執筆した出版物のリストを載せましょう。
+-->
 
 # Conference Presentations
 
