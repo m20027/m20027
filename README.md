@@ -1,15 +1,11 @@
 <!-- Curriculum Vitae of Kazuaki Ohyama -->
 
 # Kazuaki OHYAMA
-<!--
 <div style="text-align: right;">
-University Student
-<br>
 Department of Physics Graduate School of Science, 
 <br>
-Tokyo Metropolitan University
+Tokyo Metropolitan University (expected)
 </div>
--->
 
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -127,22 +123,21 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 # Skill & Certification
 - C, Python
 <!--
-自分が持つ専門分野に関連したスキル及び資格のリストを作成しましょう。例えばエンジニアリングでは実験スキル、電子工作スキル、機械加工スキル、プログラミング言語などが挙げられますが、研究分野によって必要なスキルは大きく異なります。このスキルは一長一短で身に付くものでは無いので、しっかり長期的な目線を持って出願に間に合うように各種スキルを磨くようにしてください。
+自分が持つ専門分野に関連したスキル及び資格のリストを作成しましょう。
+例えばエンジニアリングでは実験スキル、電子工作スキル、機械加工スキル、プログラミング言語などが挙げられますが、研究分野によって必要なスキルは大きく異なります。
+このスキルは一長一短で身に付くものでは無いので、しっかり長期的な目線を持って出願に間に合うように各種スキルを磨くようにしてください。
 
 Tips：Expert…C/C++, Machining; Proficient…R, Python, Welding; Working knowledge…のように、レベル別で整理する形式もよく見受けられます 。
 -->
 
-</ul>
-<img src="./photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="13%"> 
-<!--<img src="./photos/cropped-Xplanehori.jpg" alt="cropped-Xplanehori" width="25%">
-</ul>
--->
 
 # Contact Information
 - Email: m20027"at"g.metro-cit.ac.jp
 - Office: None
 - TEL: None
 
+</ul>
+<img src="./photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="13%"> 
 
 <!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
