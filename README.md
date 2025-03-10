@@ -9,19 +9,24 @@ Department of Electrical and Electronic Engineering Program,
 Tokyo Metropolitan College of Industrial Technology
 </div>
 
-# Status
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
 
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned electrical at Tokyo Metropolitan College of Industrial Technology (TMCIT).
 
+
+
 # Education
 - Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) (Apr. 2019 - Mar. )
 	- Department of Electrical and Electronic Engineering Program (Apr. 2021)
-	- Inage lab (Apr. 2023)
-- Tokyo Metropolitan University Department of Physics Graduate Schook of Science (Apr. 2025, expected)
+	- Inage lab (Apr. 2023 - Mar. 2025)
+- Tokyo Metropolitan University Department of Physics Graduate School of Science (Apr. 2025, expected)
 - ...
+
+
 
 <!--
 アカデミアで主に用いられるCVを作成するにあたって、学歴の項目はとても重要です。名前と連絡先の項目の次に明記しましょう。この項目に記す情報は以下の通りです。
@@ -42,8 +47,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
--
-Associate Degree (expected)
+- Associate Degree (expected)
 
 # Research
 <!--
@@ -58,14 +62,17 @@ Associate Degree (expected)
 
 Tips：研究に関する説明をする際に文章がつい長くなりがちですが、CVはあくまで自分の経歴を簡潔に相手に伝えることが目的なので１項目につき大体1~2行ほどの短い文章にまとめましょう。箇条書きスタイルを使うのも一手です。
 -->
-## Previous
 
 ## Research Projects
 - 
 
 ## Keywords
+- 
+
+### Previous
 - Resource Management 
 - Distributed Wireless Network
+
 
 ## Academic Society
 - The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member
@@ -78,7 +85,9 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 [1] J. B. Hartle and S. W. Hawking, “Wave Function of the Universe,” Physical Review D, Vol. 28, Iss. 12, December 1983
 [2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
 
-# Presentations
+# Conference Presentations (Non-refereed)
+- **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング", 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
+- 
 <!--
 この項目では学会参加経験、研究発表、スピーチ、もしくはセミナー、講演など過去にオーディエンスの前でプレゼンテーションを行った経験のリストを作成しましょう。
 
