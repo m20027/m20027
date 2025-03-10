@@ -84,8 +84,8 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 [2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
 
 # Conference Presentations (Non-refereed)
-- **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
-- 
+1.  **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
+2.  
 <!--
 この項目では学会参加経験、研究発表、スピーチ、もしくはセミナー、講演など過去にオーディエンスの前でプレゼンテーションを行った経験のリストを作成しましょう。
 
@@ -118,7 +118,8 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 # Awards & Honors
 - 
 <!--
-研究に関連してこれまでに獲得した賞（最優秀論文賞や学科長賞）、課外活動や大会での受賞歴、奨学金、大学での成績優秀賞、研究資金獲得歴などをここにまとめましょう。長くなりすぎない限り、それぞれの賞の簡単な概要（どんな実績に対して賞が与えられるか）を載せても良いかもしれません。
+研究に関連してこれまでに獲得した賞（最優秀論文賞や学科長賞）、課外活動や大会での受賞歴、奨学金、大学での成績優秀賞、研究資金獲得歴などをここにまとめましょう。
+長くなりすぎない限り、それぞれの賞の簡単な概要（どんな実績に対して賞が与えられるか）を載せても良いかもしれません。
 
 ・賞や奨学金などの名前
 ・いつ、どの団体から受賞したか
@@ -126,8 +127,7 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 -->
 
 # Skill & Certification
-- Mac
-- Working knowledge: C, Python
+- C, Python
 <!--
 自分が持つ専門分野に関連したスキル及び資格のリストを作成しましょう。例えばエンジニアリングでは実験スキル、電子工作スキル、機械加工スキル、プログラミング言語などが挙げられますが、研究分野によって必要なスキルは大きく異なります。このスキルは一長一短で身に付くものでは無いので、しっかり長期的な目線を持って出願に間に合うように各種スキルを磨くようにしてください。
 
@@ -139,6 +139,12 @@ Tips：Expert…C/C++, Machining; Proficient…R, Python, Welding; Working knowl
 <!--<img src="./photos/cropped-Xplanehori.jpg" alt="cropped-Xplanehori" width="25%">
 </ul>
 -->
+
+# Contact Information
+- Email: m20027"at"g.metro-cit.ac.jp
+- Office: None
+- TEL: None
+
 
 <!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
