@@ -110,7 +110,7 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 -->
 
 # Awards & Honors
-- 
+
 <!--
 研究に関連してこれまでに獲得した賞（最優秀論文賞や学科長賞）、課外活動や大会での受賞歴、奨学金、大学での成績優秀賞、研究資金獲得歴などをここにまとめましょう。
 長くなりすぎない限り、それぞれの賞の簡単な概要（どんな実績に対して賞が与えられるか）を載せても良いかもしれません。
@@ -136,7 +136,6 @@ Tips：Expert…C/C++, Machining; Proficient…R, Python, Welding; Working knowl
 - Office: None
 - TEL: None
 
-</ul>
 <img src="./photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="13%"> 
 
 <!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
