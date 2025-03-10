@@ -7,7 +7,10 @@ Department of Physics Graduate School of Science,
 Tokyo Metropolitan University (expected)
 </div>
 
-[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
+[![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
+[![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
 
@@ -89,17 +92,6 @@ The Institute of Electronics Information and Communication Engineers (IEICE) Jun
 
 # Employment
 - 
-<!--
-職務経験の項目には、今までの職務経験、会社名や自らのポジション、期間などをまとめたリストを作成しましょう。出願者によっては、この項目を上記の研究/指導経験とまとめて１つの項目にするパターンもあります。自分の経験、分野にあったレイアウトを見つけましょう。
-
-・ポジション
-・会社名
-・働いていた期間、場所
-・役職の簡潔な説明
-・インターン歴
-
-Tips：CVに載せる職歴は、大学院留学、研究に関連したものだけを載せるようにしましょう。例えば、レストランで半年間バイトをしていた、等の職務経験は載せる必要はありません。
--->
 
 # Extracurricular Activities
 - XPLANE Facilitator / Apr. 2023
