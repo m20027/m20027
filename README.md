@@ -46,7 +46,11 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
-- Associate Degree (expected)
+- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025expected)
+
+<!--
+, "Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation"
+-->
 
 # Research
 <!--
@@ -86,13 +90,6 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 # Conference Presentations (Non-refereed)
 1.  **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 2.  
-<!--
-この項目では学会参加経験、研究発表、スピーチ、もしくはセミナー、講演など過去にオーディエンスの前でプレゼンテーションを行った経験のリストを作成しましょう。
-
-・発表の題目、学会名
-・発表を行った場所（都市、国、研究機関、大学名など）
-・発表を行った日程、時期
--->
 
 # Employment
 - 
