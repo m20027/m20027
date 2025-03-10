@@ -17,7 +17,7 @@ Tokyo Metropolitan University
 
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
-He learned electrical at Tokyo Metropolitan College of Industrial Technology (TMCIT).
+He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology.
 
 
 
@@ -48,7 +48,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
-- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025expected)
+- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025 expected)
 
 <!--
 , "Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation"
@@ -72,14 +72,13 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 - 
 
 ## Keywords
-- 
 
 ### Previous
 Wireless Communication, Distributed Wireless Network, Resource Management, Spectrum Sharing, Spectrum Sensing, Beyond 5G, NTN, Satellite Constellation  
 
 
 ## Academic Society
-- The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member
+The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member, 
 
 # Selected Publications
 <!--
