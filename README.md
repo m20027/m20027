@@ -1,13 +1,15 @@
 <!-- Curriculum Vitae of Kazuaki Ohyama -->
 
 # Kazuaki OHYAMA
+<!--
 <div style="text-align: right;">
-Technical College Student
+University Student
 <br>
-Department of Electrical and Electronic Engineering Program, 
+Department of Physics Graduate School of Science, 
 <br>
-Tokyo Metropolitan College of Industrial Technology
+Tokyo Metropolitan University
 </div>
+-->
 
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027) [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027) </a> [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -21,9 +23,9 @@ He learned electrical at Tokyo Metropolitan College of Industrial Technology (TM
 
 # Education
 - Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) (Apr. 2019 - Mar. )
-	- Department of Electrical and Electronic Engineering Program (Apr. 2021)
-	- Inage lab (Apr. 2023 - Mar. 2025)
-- Tokyo Metropolitan University Department of Physics Graduate School of Science (Apr. 2025, expected)
+   - Department of Electrical and Electronic Engineering Program (Apr. 2021)
+   - Inage lab (Apr. 2023 - Mar. 2025)
+- Department of Physics Graduate School of Science, Tokyo Metropolitan University (Apr. 2025, expected)
 - ...
 
 
@@ -87,7 +89,9 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 [1] J. B. Hartle and S. W. Hawking, “Wave Function of the Universe,” Physical Review D, Vol. 28, Iss. 12, December 1983
 [2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
 
-# Conference Presentations (Non-refereed)
+# Conference Presentations
+
+## Non-refereed
 1.  **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 2.  
 
@@ -106,11 +110,12 @@ Tips：CVに載せる職歴は、大学院留学、研究に関連したもの�
 -->
 
 # Extracurricular Activities
-- 
+- XPLANE Facilitator / Apr. 2023
 <!--
-課外活動歴の項目にはこれまで自分が参加した部活動、クラブ、団体でリーダーシップを発揮した経験、もしくはボランティア活動等を記します。この項目は高校から大学への入学審査において一般的に重要視されますが、大学院に進学を希望する学生に教授が期待するのは専門分野での経験（研究、発表、論文執筆、実験スキル等）であり、その他の項目と比べると重要度は下がるといえます。ただ、自分の研究分野に関連する課外活動はとても重要なのでこの項目では研究に関係の無い課外活動をまとめるに留め、研究に関する活動は上記の研究/指導経験に含んでも良いかもしれません。
+課外活動歴の項目にはこれまで自分が参加した部活動、クラブ、団体でリーダーシップを発揮した経験、もしくはボランティア活動等を記します。
+この項目は高校から大学への入学審査において一般的に重要視されますが、大学院に進学を希望する学生に教授が期待するのは専門分野での経験（研究、発表、論文執筆、実験スキル等）であり、その他の項目と比べると重要度は下がるといえます。
+ただ、自分の研究分野に関連する課外活動はとても重要なのでこの項目では研究に関係の無い課外活動をまとめるに留め、研究に関する活動は上記の研究/指導経験に含んでも良いかもしれません。
 -->
-- XPLANE Facilitator / Apr. 2023 -
 
 # Awards & Honors
 - 
