@@ -27,7 +27,6 @@ He learned electrical at Tokyo Metropolitan College of Industrial Technology (TM
 - ...
 
 
-
 <!--
 アカデミアで主に用いられるCVを作成するにあたって、学歴の項目はとても重要です。名前と連絡先の項目の次に明記しましょう。この項目に記す情報は以下の通りです。
 
@@ -70,8 +69,7 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 - 
 
 ### Previous
-- Resource Management 
-- Distributed Wireless Network
+Wireless Communication, Distributed Wireless Network, Resource Management, Spectrum Sharing, Spectrum Sensing, Beyond 5G, NTN, Satellite Constellation  
 
 
 ## Academic Society
@@ -86,7 +84,7 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 [2] S. W. Hawking, “Particle Creation by Black Holes,” Communications in Mathematical Physics, Vol. 43, Iss. 3, pp. 199-220, August 1975-->
 
 # Conference Presentations (Non-refereed)
-- **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング", 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
+- **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 - 
 <!--
 この項目では学会参加経験、研究発表、スピーチ、もしくはセミナー、講演など過去にオーディエンスの前でプレゼンテーションを行った経験のリストを作成しましょう。
@@ -97,6 +95,7 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 -->
 
 # Employment
+- 
 <!--
 職務経験の項目には、今までの職務経験、会社名や自らのポジション、期間などをまとめたリストを作成しましょう。出願者によっては、この項目を上記の研究/指導経験とまとめて１つの項目にするパターンもあります。自分の経験、分野にあったレイアウトを見つけましょう。
 
