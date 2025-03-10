@@ -17,10 +17,10 @@ Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned electrical at Tokyo Metropolitan College of Industrial Technology (TMCIT).
 
 # Education
-- Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) / Apr. 2019 - Mar. 
-	- Department of Electrical and Electronic Engineering Program / Apr. 2021
-	- Inage lab/ Apr. 2023
-- Enter Tokyo Metropolitan University (expected)
+- Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) (Apr. 2019 - Mar. )
+	- Department of Electrical and Electronic Engineering Program (Apr. 2021)
+	- Inage lab (Apr. 2023)
+- Tokyo Metropolitan University Department of Physics Graduate Schook of Science (Apr. 2025, expected)
 - ...
 
 <!--
@@ -58,6 +58,10 @@ Associate Degree (expected)
 
 Tips：研究に関する説明をする際に文章がつい長くなりがちですが、CVはあくまで自分の経歴を簡潔に相手に伝えることが目的なので１項目につき大体1~2行ほどの短い文章にまとめましょう。箇条書きスタイルを使うのも一手です。
 -->
+## Previous
+
+## Research Projects
+- 
 
 ## Keywords
 - Resource Management 
