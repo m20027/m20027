@@ -103,7 +103,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Employment
 1. SA (Student Assistant) (2022-2023)
-    - Teached (Electromagnetism and so on) to student 
+    - teach (Electromagnetism and so on) to student 
 3. 
 
 # Extracurricular Activities
