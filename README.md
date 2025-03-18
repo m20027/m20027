@@ -47,7 +47,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 ## Academic Degree
-- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025 expected)
+- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025)
 
 <!--
 , "Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation"
@@ -73,12 +73,18 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 
 ## Keywords
 
-### Previous
+## Previous
+Spectrum resource shortages are expected due to the high capacity and speed of communication for extreme coverage in Beyond 5G.
+Meanwhile, allocating efficient, adaptive operations and ensuring new spectrum opportunities cannot be achieved owing to static and exclusive conventional spectrum management.
+To address this problem, dynamic spectrum access (DSA) has been proposed and DSA can perform varied spectrum control via spectrum sensing.
+However, expanding the DSA application area is difficult since wide area and real-time spectrum recognition cannot be obtained using conventional spectrum estimation methods.
+We proposed a new spectrum sensing by Low Earth Orbit (LEO) satellite constellation, placing the same satellites in a straight track based on Synthetic Aperture Radar (SAR) processing for spacial resolution improvement ([See more](https://ken.ieice.org/ken/paper/20250306bciD/)).
+
+### Keywords
 Wireless Communication, Distributed Wireless Network, Resource Management, Spectrum Sharing, Spectrum Sensing, Beyond 5G, NTN, Satellite Constellation  
 
-
-## Academic Society
-The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member, 
+# Academic Society
+- IEICE Junior Member
 
 # Selected Publications
 1. 
@@ -89,11 +95,11 @@ The Institute of Electronics Information and Communication Engineers (IEICE) Jun
 # Conference Presentations
 
 ## Non-refereed
-1.  **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
+1. **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 2.  
 
 # Employment
-- 
+1. SA (Student Assistant) ()
 
 # Extracurricular Activities
 - XPLANE Facilitator (Apr. 2023 - )
