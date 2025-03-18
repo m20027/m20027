@@ -54,6 +54,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 -->
 
 # Research
+
 <!--
 ここは、自分の研究及び指導経験をまとめた項目です。この項目は大学院留学を目指す学生にとって特に重要な項目で、できるだけ詳しくかつ簡潔に、今まで自分がしてきた研究経験を明記しましょう。
 
@@ -80,6 +81,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 The Institute of Electronics Information and Communication Engineers (IEICE) Junior Member, 
 
 # Selected Publications
+1. 
 <!--
 ここでは自分が今まで著者として執筆した出版物のリストを載せましょう。
 -->
@@ -94,11 +96,11 @@ The Institute of Electronics Information and Communication Engineers (IEICE) Jun
 - 
 
 # Extracurricular Activities
-- XPLANE Facilitator / Apr. 2023
+- XPLANE Facilitator (Apr. 2023 - )
 
 
 # Awards & Honors
-1. 
+1. 東京都産業教育振興会賞 (Mar. 2025)
 
 # Skill & Certification
 C, Python
