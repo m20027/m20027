@@ -2,9 +2,11 @@
 
 # Kazuaki OHYAMA
 <div style="text-align: right;">
-Department of Physics Graduate School of Science, 
-<br>
-Tokyo Metropolitan University (expected)
+   3rd grade,
+   <br>
+   Department of Physics Graduate School of Science, 
+   <br>
+   Tokyo Metropolitan University (expected)
 </div>
 
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
@@ -13,11 +15,9 @@ Tokyo Metropolitan University (expected)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
-
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology.
-
 
 
 # Education
@@ -88,18 +88,23 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Selected Publications
 1. 
+
 <!--
 ここでは自分が今まで著者として執筆した出版物のリストを載せましょう。
 -->
 
 # Conference Presentations
+## Refereed
+1. 
 
 ## Non-refereed
 1. **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 2.  
 
 # Employment
-1. SA (Student Assistant) ()
+1. SA (Student Assistant) (2022-2023)
+    - Teached (Electromagnetism and so on) to student 
+3. 
 
 # Extracurricular Activities
 - XPLANE Facilitator (Apr. 2023 - )
