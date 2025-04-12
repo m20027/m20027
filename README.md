@@ -107,6 +107,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 3. 
 
 # Extracurricular Activities
+- IEICE Ambassador (Apr. 2023 - )
 - XPLANE Facilitator (Apr. 2023 - )
 
 
