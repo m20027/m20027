@@ -119,7 +119,7 @@ C, Python
 
 
 # Contact Information
-- Email: m20027"at"g.metro-cit.ac.jp
+- Email: 
 - Office: None
 - TEL: None
 
