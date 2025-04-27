@@ -104,7 +104,11 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Employment
 1. SA (Student Assistant) (2022-2023)
-    - teach (Electromagnetism and so on) to student 
+    - teach (Electromagnetism and so on) to student
+    - at Tokyo Metropolitan College of Industrial Technology
+2. Internship (Aug. 17th-23rd, Sep. 4th-8th, 2024)
+    - research LTE locational characteristic 
+    - at Advanced Wireless and Communication Research Center (AWCC), UEC
 3. 
 
 # Extracurricular Activities
