@@ -6,7 +6,7 @@
    <br>
    Department of Physics Graduate School of Science, 
    <br>
-   Tokyo Metropolitan University (expected)
+   Tokyo Metropolitan University
 </div>
 
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
