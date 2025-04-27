@@ -18,6 +18,7 @@
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
 He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology.
+He currently interested in physics for electrical and electron filed.
 
 
 # Education
