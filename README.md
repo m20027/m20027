@@ -124,7 +124,5 @@ C, Python
 - Office: None
 - TEL: None
 
-<img src="./photos/affiliate-black.svg" alt="notion-affiliate-black" width="20%" height="13%"> 
-
 <!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
