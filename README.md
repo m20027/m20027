@@ -22,15 +22,16 @@ He currently interested in physics for electrical and electron filed.
 
 
 # Education
-- Tokyo Metropolitan College of Industrial Technology (Tokyo, Japan) (Apr. 2019 - Mar. )
+- Tokyo Metropolitan College of Industrial Technology, Tokyo, Japan (Apr. 2019 - Mar. )
    - Department of Electrical and Electronic Engineering Program (Apr. 2021)
    - Inage lab (Apr. 2023 - Mar. 2025)
-- Department of Physics, Faculty of Science, Tokyo Metropolitan University (Apr. 2025)
+- Department of Physics, Faculty of Science, Tokyo Metropolitan University, Tokyo,Japan (Apr. 2025)
+   - ??? lab (Apr. 2026)
 - ...
 
 
 <!--
-アカデミアで主に用いられるCVを作成するにあたって、学歴の項目はとても重要です。名前と連絡先の項目の次に明記しましょう。この項目に記す情報は以下の通りです。
+名前と連絡先の項目の次に明記しましょう。この項目に記す情報は以下の通りです。
 
 ・過去に卒業した or 現在所属の大学、大学院とその場所（国）
 ・上記の各大学で修めた or 取得予定の学位（B.S., M.Sなど）・学部、専攻
@@ -42,7 +43,8 @@ He currently interested in physics for electrical and electron filed.
 ・留学歴
 ・GPA、履修したクラスのリスト
 
-GPAと履修クラスに関しては一般的に必須項目ではありませんが、研究に直結しているクラス名などを載せるのもOKです。ヨーロッパではGPAと共に学年順位を問われることをあるので、自分自身の順位をしっかり把握しておいて出願大学のある国のスタイルに対応できるようにしましょう。
+GPAと履修クラスに関しては一般的に必須項目ではありませんが、研究に直結しているクラス名などを載せるのもOKです。
+ヨーロッパではGPAと共に学年順位を問われることをあるので、自分自身の順位をしっかり把握しておいて出願大学のある国のスタイルに対応できるようにしましょう。
 
 Tips：時系列はCV全体で統一しましょう。学歴の項目で新→古であれば、以降の項目でもその順番に揃えることが受け手側が読みやすいCVを作成するコツの１つです。
 -->
