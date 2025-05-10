@@ -1,6 +1,6 @@
 <!-- Curriculum Vitae of Kazuaki Ohyama -->
 
-# Kazuaki OHYAMA
+# Kazuaki OHYAMA (大山主朗)
 <div style="text-align: right;">
    3rd grade,
    <br>
