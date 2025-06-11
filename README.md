@@ -111,7 +111,10 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 2. Internship (Aug. 17th-23rd, Sep. 4th-8th, 2024)
     - research LTE locational characteristic 
     - at Advanced Wireless and Communication Research Center (AWCC), UEC
-3. 
+3. 探求学習SA (Jun. 2025-)
+   - 高校での探求学習の支援・補助
+   - at SSH high school
+5. 
 
 # Extracurricular Activities
 - IEICE Ambassador (Apr. 2023 - )
