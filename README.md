@@ -12,7 +12,6 @@
 [![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
 [![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
 [![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
 # Biography
