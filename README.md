@@ -122,6 +122,10 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Awards & Honors
 1. 東京都産業教育振興会賞 (Mar. 2025)
+2. 
+
+# Funds
+1. 
 
 # Skill & Certification
 C, Python
