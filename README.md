@@ -125,10 +125,11 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 2. 
 
 # Funds
-1. 
+1. 守谷育英会（Arp. 2025 - Mar. 2027）
 
 # Skill & Certification
-C, Python
+1. TOEIC 740 (Jun. 2025)
+2. C, Python
 
 
 # Contact Information
