@@ -111,7 +111,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
     - research LTE locational characteristic 
     - at Advanced Wireless and Communication Research Center (AWCC), UEC
 3. 探求学習SA (Jun. 2025-)
-   - 高校での探求学習の支援・補助
+   - 高校やオープンキャンパスでの探求学習の支援・補助
    - at SSH high school
 5. 
 
