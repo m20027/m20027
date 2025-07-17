@@ -125,7 +125,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 2. 
 
 # Funds
-1. 守谷育英会（Arp. 2025 - Mar. 2027）
+1. 
 
 # Skill & Certification
 1. TOEIC 740 (Jun. 2025)
