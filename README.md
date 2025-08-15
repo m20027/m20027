@@ -112,7 +112,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
     - at Advanced Wireless and Communication Research Center (AWCC), UEC
 3. 探求学習SA (Jun. 2025-)
    - 高校やオープンキャンパスでの探求学習の支援・補助
-   - at SSH high school
+   - at Sagamihara high school, TMU
 5. 
 
 # Extracurricular Activities
