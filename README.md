@@ -114,7 +114,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
    - 高校やオープンキャンパスでの探求学習の支援・補助
    - at Sagamihara high school, TMU
 5. Internship (Aug. 18th-29th, 2025)
-    - NTN network simmulation
+    - network simmulation
     - at 構造計画研究所, KKE
    
 # Extracurricular Activities
