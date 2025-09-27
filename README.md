@@ -58,7 +58,7 @@ Tips：時系列はCV全体で統一しましょう。学歴の項目で新→�
 # Research
 
 <!--
-ここは、自分の研究及び指導経験をまとめた項目です。この項目は大学院留学を目指す学生にとって特に重要な項目で、できるだけ詳しくかつ簡潔に、今まで自分がしてきた研究経験を明記しましょう。
+自分の研究及び指導経験をまとめた項目。この項目は大学院留学を目指す学生にとって特に重要な項目で、できるだけ詳しくかつ簡潔に、今まで自分がしてきた研究経験を明記する。
 
 ・研究歴とその簡潔な内容
 ここに上記の学位論文の説明などを記すのもOK
@@ -113,9 +113,10 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 3. 探求学習SA (Jun. 2025-)
    - 高校やオープンキャンパスでの探求学習の支援・補助
    - at Sagamihara high school, TMU
-5. Internship (Aug. 18th-29th, 2025)
+4. Internship (Aug. 18th-29th, 2025)
     - network simmulation
     - at 構造計画研究所, KKE
+5. 学内の講座などの運営補助 (Sep. 2025-)
    
 # Extracurricular Activities
 - IEICE Ambassador (Apr. 2023 - )
