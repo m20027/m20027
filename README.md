@@ -25,7 +25,7 @@ He currently interested in physics for electrical and electron filed.
    - Department of Electrical and Electronic Engineering Program (Apr. 2021)
    - Inage lab (Apr. 2023 - Mar. 2025)
 - Department of Physics, Faculty of Science, Tokyo Metropolitan University, Tokyo,Japan (Apr. 2025)
-   - ??? lab (Apr. 2026)
+   - Nomoto lab, Computational Materials Science lab (expectation Apr. 2026 - )
 - ...
 
 
