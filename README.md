@@ -25,7 +25,7 @@ He currently interested in physics for electrical and electron filed.
    - Department of Electrical and Electronic Engineering Program (Apr. 2021)
    - Inage lab (Apr. 2023 - Mar. 2025)
 - Department of Physics, Faculty of Science, Tokyo Metropolitan University, Tokyo,Japan (Apr. 2025)
-   - Nomoto lab, Computational Materials Science lab (expectation Apr. 2026 - )
+   - Nomoto lab, Computational Materials Science lab (Apr. 2026 - )
 - ...
 
 
@@ -116,7 +116,8 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 4. Internship (Aug. 18th-29th, 2025)
     - network simmulation
     - at 構造計画研究所, KKE
-5. 学内の講座などの運営補助 (Sep. 2025-)
+5. 学内の生涯学習支援活動の運営補助 (Sep. 2025-)
+6. 情報処理関連授業のTA (Apr. 2026-)
    
 # Extracurricular Activities
 - IEICE Ambassador (Apr. 2023 - )
@@ -133,6 +134,8 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 # Skill & Certification
 1. TOEIC 740 (Jun. 2025)
 2. C, Python
+3. 乙種危険物取扱者
+4. 第2種電気工事士
 
 
 # Contact Information
