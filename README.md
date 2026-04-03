@@ -120,7 +120,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 6. 情報処理関連授業のTA (Apr. 2026-)
    
 # Extracurricular Activities
-- IEICE Ambassador (Apr. 2023 - )
+- IEICE Ambassador (Apr. 2023 - Mar. 2026)
 - XPLANE Facilitator (Apr. 2023 - )
 
 
