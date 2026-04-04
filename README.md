@@ -86,7 +86,8 @@ We proposed a new spectrum sensing by Low Earth Orbit (LEO) satellite constellat
 Wireless Communication, Distributed Wireless Network, Resource Management, Spectrum Sharing, Spectrum Sensing, Beyond 5G, NTN, Satellite Constellation  
 
 # Academic Society
-- IEICE Junior Member
+- IEICE Junior Member (Nov. 2021 - Mar. 2026)
+- 
 
 # Selected Publications
 1. 
