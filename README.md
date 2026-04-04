@@ -92,10 +92,6 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 # Selected Publications
 1. 
 
-<!--
-ここでは自分が今まで著者として執筆した出版物のリストを載せましょう。
--->
-
 # Conference Presentations
 ## Refereed
 1. 
@@ -115,7 +111,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
    - 高校やオープンキャンパスでの探求学習の支援・補助
    - at Sagamihara high school, TMU
 4. Internship (Aug. 18th - 29th, 2025)
-    - network simmulation for Beyond 5G
+    - network simulation for Beyond 5G
     - at 構造計画研究所, KKE
 5. 学内の生涯学習支援活動の運営補助 (Sep. 2025-)
 6. 情報処理関連授業のTA (Apr. 2026-)
