@@ -108,14 +108,14 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 1. SA (Student Assistant) (2022-2023)
     - teach (Electromagnetism and so on) to student
     - at Tokyo Metropolitan College of Industrial Technology
-2. Internship (Aug. 17th-23rd, Sep. 4th-8th, 2024)
-    - research LTE locational characteristic 
+2. Internship (Aug. 17th - 23rd, Sep. 4th-8th, 2024)
+    - research about LTE locational characteristic 
     - at Advanced Wireless and Communication Research Center (AWCC), UEC
 3. 探求学習SA (Jun. 2025-)
    - 高校やオープンキャンパスでの探求学習の支援・補助
    - at Sagamihara high school, TMU
-4. Internship (Aug. 18th-29th, 2025)
-    - network simmulation
+4. Internship (Aug. 18th - 29th, 2025)
+    - network simmulation for Beyond 5G
     - at 構造計画研究所, KKE
 5. 学内の生涯学習支援活動の運営補助 (Sep. 2025-)
 6. 情報処理関連授業のTA (Apr. 2026-)
@@ -141,7 +141,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 # Contact Information
 - Email: 
-- Office: None
+- Office: room 596, Building 8
 - TEL: None
 
 <!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
