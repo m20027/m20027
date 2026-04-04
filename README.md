@@ -2,7 +2,7 @@
 
 # Kazuaki OHYAMA (大山主朗)
 <div style="text-align: right;">
-   3rd grade,
+   4rd grade,
    <br>
    Department of Physics Graduate School of Science, 
    <br>
@@ -15,9 +15,7 @@
 
 
 # Biography
-Kazuaki Ooyama was born in Chiba, Japan in 2004.
-He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology.
-He currently interested in physics for electrical and electron filed.
+Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology. He currently interested in physics for new quantum devices (spin/optic/magnetic).
 
 
 # Education
