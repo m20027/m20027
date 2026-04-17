@@ -9,11 +9,6 @@
    Tokyo Metropolitan University
 </div>
 
-[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
-[![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
-[![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
-
-
 # Biography
 Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology. He currently interested in physics for new quantum devices (spin/optic/magnetic).
 
