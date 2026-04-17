@@ -98,6 +98,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 2. C, Python
 3. 乙種危険物取扱者
 4. 第2種電気工事士
+5. 第1級陸上特殊無線技士
 
 
 # Contact Information
