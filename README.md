@@ -6,12 +6,11 @@ layout: page
 
 # Kazuaki OHYAMA (大山主朗)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td width="200">
      <img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
-    </td>
-    <td>
+    </td> <td width="600">
       4rd grade,<br>Department of Physics Graduate School of Science, 
    <br>Tokyo Metropolitan University
     </td>
@@ -107,10 +106,11 @@ Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expe
 - Office: room 596, Building 8
 - TEL: None
 
+---
+
 <body><p>Last updated: <time id="modified_date"></time></p>
 <script>
 const last = new Date(document.lastModified);
 const viewDateText = last.getFullYear() + "/" + (last.getMonth() + 1) + "/" + (last.getDate());
 document.getElementById('modified_date').textContent = viewDateText;
 </script></body> 
----
