@@ -6,10 +6,12 @@ layout: page
 
 # Kazuaki OHYAMA (大山主朗)
 
+<div class="top">
 <img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
 <div style="text-align: right;">
    4rd grade,<br>Department of Physics Graduate School of Science, 
    <br>Tokyo Metropolitan University
+</div>
 </div>
 ---
 <a href="https://orcid.org/0009-0009-9207-2207" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="5%">
