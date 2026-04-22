@@ -6,13 +6,18 @@ layout: page
 
 # Kazuaki OHYAMA (大山主朗)
 
-<div class="top">
-<img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
-<div style="text-align: right;">
-   4rd grade,<br>Department of Physics Graduate School of Science, 
+<table>
+  <tr>
+    <td>
+     <img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
+    </td>
+    <td>
+      4rd grade,<br>Department of Physics Graduate School of Science, 
    <br>Tokyo Metropolitan University
-</div>
-</div>
+    </td>
+  </tr>
+</table>
+
 ---
 <a href="https://orcid.org/0009-0009-9207-2207" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="5%">
 <a href="https://www.researchgate.net/profile/Kazuaki-Oyama" target="_blank"><img src="https://help.researchgate.net/~gitbook/image?url=https%3A%2F%2F4261976051-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxYXeLSiRXUlWH1QAXUMx%252Fuploads%252FofAaZyLGIuf6H68N0FOn%252FRG_Logo_Square_Green.jpg%3Falt%3Dmedia%26token%3D922b9e77-8aa4-445c-b6c4-99ca2cbb8211&width=300&dpr=3&quality=100&sign=9b126685&sv=2" width="5%">
