@@ -12,4 +12,6 @@ const last = new Date(document.lastModified);
 const viewDateText = last.getFullYear() + "/" + (last.getMonth() + 1) + "/" + (last.getDate());
 // ステップ4：更新日の表示先のHTMLの"time"タグを上書き
 document.getElementById('modified_date').textContent = viewDateText;
-</script></body> 
+</script></body>
+
+<small>&copy; 2025 Kazuaki OHYAMA</small>
