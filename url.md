@@ -41,7 +41,6 @@ layout: page
 ---
 ## 工学
 1. [RFInsights][RFIN]{:target="_blank"}
-：RF回路に関する様々なことがまとめられている
 2. 
 
 [RFIN]: https://www.rfinsights.com/
@@ -67,7 +66,7 @@ layout: page
 6. [”作業”ベースで把握する論文の書き方][taskbased]{:target="_blank"}
 7. [How to design an award-winning conference poster][awardPoster]{:target="_blank"}
 8. [論文改訂に関するノウハウ][paper-revise]{:target="_blank"}
-9. [渡辺研の数値計算用PCセットアップ資料][kaityo]{:target="_blank"}
+9. [][]{:target="_blank"}
 10. [][]}{target:"_blank"}
 
 [why-little-progress]: https://web.tohoku.ac.jp/yusa/index.php/2024/why-your-study-has-little-progress/
@@ -78,7 +77,7 @@ layout: page
 [taskbased]: https://researchmap.jp/multidatabases/multidatabase_contents/detail/250225/77fc43545352cd5844793fc3d7871065?frame_id=622163
 [awardPoster]: https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/
 [paper-revise]: https://www.isee.nagoya-u.ac.jp/~okumura/files/Makishima_Revise_v2.pdf
-[kaityo]: https://kaityo256.github.io/lab_startup/
+
 
 ### 論文向けツール
 1. [aqrxix][aqrxix]{:target="_blank"}
@@ -109,10 +108,12 @@ layout: page
 [scholarship]: https://kn1cht.github.io/doctor-funding-calendar/
 
 ### その他
-1. [JREC-IN Portalのみかた][JREC-IN Portal]{:target="_blank"}
-2. [有田亮太郎先生へのインタビュー - Share Your Story][arita]{:target="_blank"}
+1. [JREC-IN Portal][JREC-IN Portal]{:target="_blank"}
+2. [JREC-IN Portalのみかた][JREC-IN Portal_see]{:target="_blank"}
+3. [有田亮太郎先生へのインタビュー - Share Your Story][arita]{:target="_blank"}
 
-[JREC-IN Portal]: https://note.com/phd_etal/n/n7bbfb483d2f6
+[JREC-IN Portal]: https://jrecin.jst.go.jp/seek/SeekTop
+[JREC-IN Portal_see]: https://note.com/phd_etal/n/n7bbfb483d2f6
 [arita]: https://www.enago.jp/share-your-story/authors-of-highly-cited-research-papers/dr-ryotaro-arita
 
 ---
