@@ -69,7 +69,7 @@ layout: page
 
 ## ブログ等
 1. [SEGA TECH BLOG][SEGA]{:target=":_blank"}
-2. [arutema47's blog][arutema47's blog]{:target:"_blank"}：LiDARやアナログ回路の研究者のブログ
+2. [arutema47's blog][arutema47's blog]{:target="_blank"}：LiDARやアナログ回路の研究者のブログ
 
 [SEGA]: https://techblog.sega.jp/
 [arutema47's blog]: https://aru47.hatenablog.com/
@@ -108,6 +108,7 @@ layout: page
 4. [texample][texample]{:target="_blank"}
 5. [tikz.net][tikz.net]{:target="_blank"}
 6. [LaTeX templates and examples — Japanese][texTemplate]{:target="_blank"}
+7. [Mathcha][mathcha]{:target="_blank"}：数式や図をオンラインで作成できる
 
 [aqrxix]: https://aqrxiv.org/
 [Circuit2TikZ]: https://www.circuit2tikz.tf.fau.de/
@@ -115,6 +116,7 @@ layout: page
 [texample]: https://texample.net/
 [tikz.net]: https://tikz.net/
 [texTemplate]: https://ja.overleaf.com/gallery/tagged/japanese/page/1
+[mathcha]: https://www.mathcha.io/
 
 ---
 ## キャリア
@@ -154,12 +156,14 @@ layout: page
 3. [OpenStreetMap][openstreetmap]{:target="_blank"}
 4. [Spreadsheet Templates, Calculators, and Calendars][vertex42]{:target="_blank"}
 5. [あおぞらラボ][blue-lab]{:target="_blank"}：大学共通テストの解答解説
+6. [NASA's Eyes][nasa_eye]{:target="_blank"}
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
 [openstreetmap]: https://www.openstreetmap.org/#map=5/35.59/134.38
 [vertex42]: https://www.vertex42.com/
 [blue-lab]: https://www.ozl.jp/index.html
+[nasa_eye]: https://science.nasa.gov/eyes/
 
 
 ---
