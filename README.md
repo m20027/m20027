@@ -26,9 +26,9 @@ Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expe
 # Education
 - [Tokyo Metropolitan College of Industrial Technology][TMCIT]{:target="_blank"}, Tokyo, Japan (Apr. 2019 - Mar. 2025)
    - Department of Electrical and Electronic Engineering Program (Apr. 2021)
-   - Distributed wireless network lab (PI: Kei Inage) (Apr. 2023 - Mar. 2025)
+   - Distributed wireless network lab, PI: Kei Inage (Apr. 2023 - Mar. 2025)
 - [Department of Physics, Faculty of Science][TMU_Phys]{:target="_blank"}, [Tokyo Metropolitan University][TMU], Tokyo, Japan (Apr. 2025)
-   - [Computational Materials Science lab][nomoto-lab]{:target="_blank"} (PI: Takuya Nomoto) (Apr. 2026 - )
+   - [Computational Materials Science lab][nomoto-lab]{:target="_blank"}, PI: Takuya Nomoto (Apr. 2026 - )
    
  [nomoto-lab]: https://sites.google.com/view/nomotogroup
  [TMCIT]: https://www.metro-cit.ac.jp/
@@ -36,8 +36,9 @@ Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expe
  [TMU_Phys]: https://www.phys.se.tmu.ac.jp/
 
 ## Academic Degree
-- Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025)
-  - Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation
+Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025)
+
+"Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation"
 
 ---
 
