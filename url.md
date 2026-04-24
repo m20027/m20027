@@ -12,6 +12,7 @@ layout: page
 5. [藤本純治先生のノート][fujimoto]{:target="_blank"}
 6. [渡辺宙志先生のブログ][kaityo256_sign]{:target="_blank"}
 7. [渡辺宙志先生のノート][kaityo256_note]{:target="_blank"}
+8. [EMANの物理学][EMAN]{:target="_blank"}
 
 [Physics_andSon]: https://whyitsso.net/index.html
 [math]: https://haltasaki.github.io/books/math/
@@ -20,6 +21,7 @@ layout: page
 [fujimoto]: https://jfujimo.to/memo/
 [kaityo256_sign]: https://kaityo256.github.io/
 [kaityo256_note]: https://kaityo256.github.io/notes/index.html
+[EMAN]: https://eman-physics.net/
 
 ### 統計力学・物性
 1. [Common and Less Common Magnets and Metals][magnets_metals]{:target="_blank"}
@@ -33,7 +35,7 @@ layout: page
 [centershi]: https://www.ltm.kyoto-u.ac.jp/centershi/index.html
 
 ### 相対論・電磁気学
-1. [相対論の理解とその周辺][Relativ_Touhoku]{:target:"_blank"}
+1. [相対論の理解とその周辺][Relativ_Touhoku]{:target="_blank"}
 2. 
 
 [Relativ_Touhoku]: https://home.hirosaki-u.ac.jp/relativity/
@@ -85,10 +87,16 @@ layout: page
 2. [Circuit2TikZ][Circuit2TikZ]
 ：電子回路などのTikZをGUIで作成できる
 3. [Tables Generator][table]{:target="_blank"}
+4. [texample][texample]{:target="_blank"}
+5. [tikz.net][tikz.net]{:target="_blank"}
+6. [LaTeX templates and examples — Japanese][texTemplate]{:target="_blank"}
 
 [aqrxix]: https://aqrxiv.org/
 [Circuit2TikZ]: https://www.circuit2tikz.tf.fau.de/
 [table]: https://www.tablesgenerator.com/
+[texample]: https://texample.net/
+[tikz.net]: https://tikz.net/
+[texTemplate]: https://ja.overleaf.com/gallery/tagged/japanese/page/1
 
 ---
 ## キャリア
@@ -121,11 +129,11 @@ layout: page
 ## Tips
 1. [Simple Icons][icon]{:target="_blank"}
 2. [shields.io][shields]{:target="_blank"}
-3. [texample][texample]{:target="_blank"}
+3. 
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
-[texample]: https://texample.net/
+
 
 ---
 <body><p>Last updated: <time id="modified_date"></time></p>
