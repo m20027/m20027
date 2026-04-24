@@ -57,6 +57,14 @@ layout: page
 [butsurinoeigo]: https://ss.scphys.kyoto-u.ac.jp/butsurinoeigo/pdffiles/2021/All_Chapters_2021.pdf
 [english-check-munual]: https://www.isee.nagoya-u.ac.jp/~okumura/files/Makishima_English_v7.pdf
 
+--
+## ブログ等
+1. [SEGA TECH BLOG][SEGA]{:target=":_blank"}
+2. 
+
+[SEGA]: https://techblog.sega.jp/
+
+
 ---
 ## 研究
 ### 研究のやり方・論文の書き方
@@ -126,13 +134,16 @@ layout: page
 
 ---
 
-## Tips
+## 素材
 1. [Simple Icons][icon]{:target="_blank"}
 2. [shields.io][shields]{:target="_blank"}
-3. 
+3. [OpenStreetMap][openstreetmap]{:target="_blank"}
+4. [Spreadsheet Templates, Calculators, and Calendars][vertex42]{:target="_blank"}
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
+[openstreetmap]: https://www.openstreetmap.org/#map=5/35.59/134.38
+[vertex42]: https://www.vertex42.com/
 
 
 ---
