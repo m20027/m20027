@@ -121,9 +121,11 @@ layout: page
 ## Tips
 1. [Simple Icons][icon]{:target="_blank"}
 2. [shields.io][shields]{:target="_blank"}
+3. [texample][texample]{:target="_blank"}
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
+[texample]: https://texample.net/
 
 ---
 <body><p>Last updated: <time id="modified_date"></time></p>
