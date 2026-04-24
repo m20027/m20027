@@ -15,6 +15,7 @@ layout: page
 8. [EMANの物理学][EMAN]{:target="_blank"}
 9. [ScienceHub][ScienceHub]{:target="_blank"}
 10. [xaktly][xaktly]{:target="_blank"}：高校・学部レベルの数学・科学
+11. [武内修先生のブログ][takeuchi]{:target="_blank"}
 
 [Physics_andSon]: https://whyitsso.net/index.html
 [math]: https://haltasaki.github.io/books/math/
@@ -26,6 +27,7 @@ layout: page
 [EMAN]: https://eman-physics.net/
 [ScienceHub]: https://sciencehub.tk-labo.com/
 [xaktly]: https://xaktly.com/index.html
+[takeuchi]: https://dora.bk.tsukuba.ac.jp/~takeuchi/
 
 ### 統計力学・物性
 1. [Common and Less Common Magnets and Metals][magnets_metals]{:target="_blank"}
@@ -67,9 +69,10 @@ layout: page
 
 ## ブログ等
 1. [SEGA TECH BLOG][SEGA]{:target=":_blank"}
-2. 
+2. [arutema47's blog][arutema47's blog]{:target:"_blank"}：LiDARやアナログ回路の研究者のブログ
 
 [SEGA]: https://techblog.sega.jp/
+[arutema47's blog]: https://aru47.hatenablog.com/
 
 ---
 
