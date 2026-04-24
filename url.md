@@ -3,7 +3,7 @@ title: "Helpful sites"
 layout: page
 ---
 
-## 物理
+## 数学・物理
 ### 全般
 1. [物理とか][Physics_andSon]{:target="_blank"}
 2. [数学：物理を学び楽しむために][math]{:target="_blank"}
@@ -13,6 +13,8 @@ layout: page
 6. [渡辺宙志先生のブログ][kaityo256_sign]{:target="_blank"}
 7. [渡辺宙志先生のノート][kaityo256_note]{:target="_blank"}
 8. [EMANの物理学][EMAN]{:target="_blank"}
+9. [ScienceHub][ScienceHub]{:target="_blank"}
+10. [xaktly][xaktly]{:target="_blank"}：高校・学部レベルの数学・科学
 
 [Physics_andSon]: https://whyitsso.net/index.html
 [math]: https://haltasaki.github.io/books/math/
@@ -22,6 +24,8 @@ layout: page
 [kaityo256_sign]: https://kaityo256.github.io/
 [kaityo256_note]: https://kaityo256.github.io/notes/index.html
 [EMAN]: https://eman-physics.net/
+[ScienceHub]: https://sciencehub.tk-labo.com/
+[xaktly]: https://xaktly.com/index.html
 
 ### 統計力学・物性
 1. [Common and Less Common Magnets and Metals][magnets_metals]{:target="_blank"}
@@ -41,11 +45,13 @@ layout: page
 [Relativ_Touhoku]: https://home.hirosaki-u.ac.jp/relativity/
 
 ---
+
 ## 工学
 1. [RFInsights][RFIN]{:target="_blank"}
-2. 
+2. [WOKWI][wokwi]{:target="_blank"}：電子回路シミュレータ
 
 [RFIN]: https://www.rfinsights.com/
+[wokwi]: https://wokwi.com/
 
 ---
 
@@ -57,15 +63,16 @@ layout: page
 [butsurinoeigo]: https://ss.scphys.kyoto-u.ac.jp/butsurinoeigo/pdffiles/2021/All_Chapters_2021.pdf
 [english-check-munual]: https://www.isee.nagoya-u.ac.jp/~okumura/files/Makishima_English_v7.pdf
 
---
+---
+
 ## ブログ等
 1. [SEGA TECH BLOG][SEGA]{:target=":_blank"}
 2. 
 
 [SEGA]: https://techblog.sega.jp/
 
-
 ---
+
 ## 研究
 ### 研究のやり方・論文の書き方
 1. [研究がうまくいかない根本的な理由][why-little-progress]{:target="_blank"}
@@ -77,7 +84,7 @@ layout: page
 7. [How to design an award-winning conference poster][awardPoster]{:target="_blank"}
 8. [論文改訂に関するノウハウ][paper-revise]{:target="_blank"}
 9. [][]{:target="_blank"}
-10. [][]}{target:"_blank"}
+10. [][]{:target="_blank"}
 
 [why-little-progress]: https://web.tohoku.ac.jp/yusa/index.php/2024/why-your-study-has-little-progress/
 [dron]: https://member.ipmu.jp/yuji.tachikawa/misc/dron.html
@@ -139,16 +146,17 @@ layout: page
 2. [shields.io][shields]{:target="_blank"}
 3. [OpenStreetMap][openstreetmap]{:target="_blank"}
 4. [Spreadsheet Templates, Calculators, and Calendars][vertex42]{:target="_blank"}
+5. [あおぞらラボ][blue-lab]{:target="_blank"}：大学共通テストの解答解説
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
 [openstreetmap]: https://www.openstreetmap.org/#map=5/35.59/134.38
 [vertex42]: https://www.vertex42.com/
+[blue-lab]: https://www.ozl.jp/index.html
 
 
 ---
-<body><p>Last updated: <time id="modified_date"></time></p>
-<script>
+<body><p>Last updated: <time id="modified_date"></time></p><script>
 // ステップ1：HTMLファイルの最終更新日を取得
 const last = new Date(document.lastModified);
 // ステップ3：上書き用の日付のテキストを作成
