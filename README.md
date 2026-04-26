@@ -67,17 +67,20 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 ---
 
 # Employment
+## TA
+
 1. Student Assistant (SA) (2022 - 2023)
     - Teach electromagnetism and so on to student @ Tokyo Metropolitan College of Industrial Technology
-2. Internship (Aug. 17th - 23rd, Sep. 4th-8th, 2024)
-    - Research about LTE locational characteristic @ Advanced Wireless and Communication Research Center (AWCC), UEC
-3. 探求学習SA (Jun. 2025 - )
+2. 探求学習SA (Jun. 2025 - )
    - 高校生への探求学習支援 @ Sagamihara high school, TMU
-4. Internship (Aug. 18th - 29th, 2025)
-    - network simulation for Beyond 5G @ 構造計画研究所, KKE
-5. 学内の生涯学習支援活動の運営補助 (Sep. 2025 - )
-6. 情報処理関連授業のTA (Apr. 2026 - )
-   
+3. 学内の生涯学習支援活動の運営補助 (Sep. 2025 - )
+4. 情報処理関連授業のTA (Apr. 2026 - )
+
+## Internship
+1. Research about LTE locational characteristic @ Advanced Wireless and Communication Research Center (AWCC), UEC (Aug. 17th - 23rd, Sep. 4th-8th, 2024)
+2. Network simulation for Beyond 5G @ 構造計画研究所, KKE (Aug. 18th - 29th, 2025)
+
+  
 # Extracurricular Activities
 - IEICE Ambassador (Apr. 2023 - Mar. 2026)
 - XPLANE Facilitator (Apr. 2023 - )
