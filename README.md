@@ -6,7 +6,7 @@ layout: page
 
 # Kazuaki OHYAMA (大山主朗)
 
-<img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
+<img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%"a href="https://www.tmu.ac.jp/">
 <div align="right">
   4rd grade,<br>
   Department of Physics Graduate School of Science,<br>
@@ -27,12 +27,12 @@ Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expe
 - [Tokyo Metropolitan College of Industrial Technology][TMCIT]{:target="_blank"}, Tokyo, Japan (Apr. 2019 - Mar. 2025)
    - Department of Electrical and Electronic Engineering Program (Apr. 2021)
    - Distributed wireless network lab, PI: Kei Inage (Apr. 2023 - Mar. 2025)
-- [Department of Physics, Faculty of Science][TMU_Phys]{:target="_blank"}, [Tokyo Metropolitan University][TMU], Tokyo, Japan (Apr. 2025)
+- [Department of Physics, Faculty of Science][TMU_Phys]{:target="_blank"}, [Tokyo Metropolitan University][TMU]{:target="_blank"}, Tokyo, Japan (Apr. 2025)
    - [Computational Materials Science lab][nomoto-lab]{:target="_blank"}, PI: Takuya Nomoto (Apr. 2026 - )
    
  [nomoto-lab]: https://sites.google.com/view/nomotogroup
  [TMCIT]: https://www.metro-cit.ac.jp/
- [TMU]: https://www.metro-cit.ac.jp/
+ [TMU]: https://www.tmu.ac.jp/
  [TMU_Phys]: https://www.phys.se.tmu.ac.jp/
 
 ## Academic Degree
