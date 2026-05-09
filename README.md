@@ -74,7 +74,7 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 2. 探求学習SA (Jun. 2025 - )
    - 高校生への探求学習支援 @ Sagamihara high school, TMU
 3. 学内の生涯学習支援活動の運営補助 (Sep. 2025 - )
-4. 情報処理関連授業のTA (Apr. 2026 - )
+4. 情報処理関連授業の補佐 (Apr. 2026 - )
 
 ## Internship
 1. Research about LTE locational characteristic @ Advanced Wireless and Communication Research Center (AWCC), UEC (Aug. 17th - 23rd, Sep. 4th-8th, 2024)
