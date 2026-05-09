@@ -6,7 +6,7 @@ layout: page
 
 # Kazuaki OHYAMA (大山主朗)
 
-<img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%"a href="https://www.tmu.ac.jp/">
+<a href="https://www.tmu.ac.jp/" target="_blank"><img src="https://m20027.github.io/m20027/assets/images/130.jpg" width="30%">
 <div align="right">
   4rd grade,<br>
   Department of Physics Graduate School of Science,<br>
