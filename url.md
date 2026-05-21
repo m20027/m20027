@@ -141,12 +141,14 @@ layout: page
 3. [有田亮太郎先生へのインタビュー - Share Your Story][arita]{:target="_blank"}
 4. [テニュアトラック助教の研究室立ち上げ][30pi]{:target="_blank"}
 5. [Securing Grants as a First-Year (Computer Science) Faculty Member][SecuringGrants]{:target="_blank"}
+6. [博士課程に進むべきなのか？][Does_apply_Doctorial]{:target="_blank"}
 
 [JREC-IN Portal]: https://jrecin.jst.go.jp/seek/SeekTop
 [JREC-IN Portal_see]: https://note.com/phd_etal/n/n7bbfb483d2f6
 [arita]: https://www.enago.jp/share-your-story/authors-of-highly-cited-research-papers/dr-ryotaro-arita
 [30pi]: https://30pi.blogspot.com/
 [SecuringGrants]: https://pbg.cs.illinois.edu/misc/SecuringGrants.pdf
+[Does_apply_Doctorial]: https://rezoo.github.io/blog/2026/phd-work-life-tradeoff/
 
 ---
 
