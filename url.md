@@ -34,11 +34,15 @@ layout: page
 2. [高橋和考先生のNote][KT]{:target="_blank"}
 3. [金澤輝代士先生の講義ノート][kanazawa]{:target="_blank"}←論文の書き方についても掲載有
 4. [低温物質科学][centershi]{:target="_blank"}
+5. [UNLOC][UNLOC]{:target="_blank"}: Ultrafast NonLinear Optical Characterization Group
+6. [Notes on Physics][NoteOnPhysics]{:target="_blank"}
 
 [magnets_metals]: https://berman-shoenberg.blogspot.com/
 [KT]: https://note.com/ktaka324
 [kanazawa]: https://kanazawa.scphys.kyoto-u.ac.jp/%E8%B3%87%E6%96%99/
 [centershi]: https://www.ltm.kyoto-u.ac.jp/centershi/index.html
+[UNLOC]: https://sites.psu.edu/gopalan/
+[NoteOnPhysics]: https://phyx.readthedocs.io/en/latest/index.html
 
 ### 相対論・電磁気学
 1. [相対論の理解とその周辺][Relativ_Touhoku]{:target="_blank"}
