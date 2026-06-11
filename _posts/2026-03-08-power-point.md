@@ -28,3 +28,13 @@ document.getElementById('modified_date').textContent = viewDateText;
 </body> 
 
 <small>&copy; 2025 Kazuaki OHYAMA</small>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VMSBYQT27R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VMSBYQT27R');
+</script>
