@@ -162,13 +162,15 @@ layout: page
 3. [OpenStreetMap][openstreetmap]{:target="_blank"}
 4. [Spreadsheet Templates, Calculators, and Calendars][vertex42]{:target="_blank"}
 5. [あおぞらラボ][blue-lab]{:target="_blank"}：大学共通テストの解答解説
-6. [NASA's Eyes][nasa_eye]{:target="_blank"}
+6. [入試問題解析][math-nyushi]{:target="_blank"}：大学入試数学の解答解説
+7. [NASA's Eyes][nasa_eye]{:target="_blank"}
 
 [icon]: https://simpleicons.org
 [shields]: https://shields.io/
 [openstreetmap]: https://www.openstreetmap.org/#map=5/35.59/134.38
 [vertex42]: https://www.vertex42.com/
 [blue-lab]: https://www.ozl.jp/index.html
+[math-nyushi]: https://nyushi-kakomon.com/
 [nasa_eye]: https://science.nasa.gov/eyes/
 
 
