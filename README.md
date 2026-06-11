@@ -114,3 +114,14 @@ const last = new Date(document.lastModified);
 const viewDateText = last.getFullYear() + "/" + (last.getMonth() + 1) + "/" + (last.getDate());
 document.getElementById('modified_date').textContent = viewDateText;
 </script></body> 
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VMSBYQT27R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VMSBYQT27R');
+</script>
