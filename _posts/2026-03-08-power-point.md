@@ -26,3 +26,5 @@ const viewDateText = last.getFullYear() + "年" + (last.getMonth() + 1) + "月" 
 document.getElementById('modified_date').textContent = viewDateText;
 </script>
 </body> 
+
+<small>&copy; 2025 Kazuaki OHYAMA</small>
