@@ -1,4 +1,4 @@
----
+e--
 title: "About me"
 permalink: "/about/"
 layout: page
@@ -21,21 +21,24 @@ layout: page
 <a href="https://bsky.app/profile/south0611.bsky.social" target="_blank"><svg role="img"  height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.202 2.857C7.954 4.922 10.913 9.11 12 11.358c1.087-2.247 4.046-6.436 6.798-8.501C20.783 1.366 24 .213 24 3.883c0 .732-.42 6.156-.667 7.037-.856 3.061-3.978 3.842-6.755 3.37 4.854.826 6.089 3.562 3.422 6.299-5.065 5.196-7.28-1.304-7.847-2.97-.104-.305-.152-.448-.153-.327 0-.121-.05.022-.153.327-.568 1.666-2.782 8.166-7.847 2.97-2.667-2.737-1.432-5.473 3.422-6.3-2.777.473-5.899-.308-6.755-3.369C.42 10.04 0 4.615 0 3.883c0-3.67 3.217-2.517 5.202-1.026"/></svg>
 
 # Biography
-Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology (TMCIT). After that he enterd department of physics, Tokyo Metropolitan University (TMU). He currently interested in physics for new quantum devices (spin/optical/magnetical) using first principle calculations. 
+
+Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expertises at Tokyo Metropolitan College of Industrial Technology (TMCIT). After that he entered department of physics, Tokyo Metropolitan University (TMU). He currently interested in the fundamental physics for next-generation spin, optical or magnetic devices using first principle calculations.
 
 # Education
+
 - [Tokyo Metropolitan College of Industrial Technology][TMCIT]{:target="_blank"}, Tokyo, Japan (Apr. 2019 - Mar. 2025)
-   - Department of Electrical and Electronic Engineering Program (Apr. 2021)
-   - Distributed wireless network lab, PI: Kei Inage (Apr. 2023 - Mar. 2025)
+  - Department of Electrical and Electronic Engineering Program (Apr. 2021)
+  - Distributed wireless network lab, PI: Kei Inage (Apr. 2023 - Mar. 2025)
 - [Department of Physics, Faculty of Science][TMU_Phys]{:target="_blank"}, [Tokyo Metropolitan University][TMU]{:target="_blank"}, Tokyo, Japan (Apr. 2025)
-   - [Computational Materials Science lab][nomoto-lab]{:target="_blank"}, PI: Takuya Nomoto (Apr. 2026 - )
-   
+  - [Computational Materials Science lab][nomoto-lab]{:target="_blank"}, PI: Takuya Nomoto (Apr. 2026 - )
+
  [nomoto-lab]: https://sites.google.com/view/nomotogroup
  [TMCIT]: https://www.metro-cit.ac.jp/
  [TMU]: https://www.tmu.ac.jp/
  [TMU_Phys]: https://www.phys.se.tmu.ac.jp/
 
 ## Academic Degree
+
 Associate Degree in Department of Electrical and Electronic Engineering Program, Tokyo Metropolitan College of Industrial Technology, Japan. (Mar. 2025)
 
 "Spectrum Sensing Based on Synthetic Aperture Concept by LEO Satellite Constellation"
@@ -45,28 +48,38 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 # Research
 
 ## Research Projects
-- 
+
+-
 
 ## Keywords
 
+- Chirality-induced spin (CISS) effect
+- Density function theory (DFT)
+
 # Academic Society
-- IEICE Junior Member (Nov. 2021 - Mar. 2026)
-- 
+
+- The Institute of Electronics, Information and Communication Engineers (IEICE) Junior Member (Nov. 2021 - Mar. 2026)
+- The Physical Society of Japan (JPS) Student Member (Jul. 2026-)
 
 # Selected Publications
-1. 
+
+1.
 
 # Conference Presentations
+
 ## Refereed
-1. 
+
+1.
 
 ## Non-refereed
+
 1. **大山主朗**, 稲毛契, 田久修, 藤井威生, "合成開口処理に着想を得た低軌道衛星コンステレーションを用いた協調スペクトラムセンシング," 信学技報, SR2024-112, vol. 124, no. 410, SR2024-112, pp. 59-65, 2025年3月, 京都 日本.
 2.  
 
 ---
 
 # Employment
+
 ## TA
 
 1. Student Assistant (SA) (2022 - 2023)
@@ -77,24 +90,28 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 4. 情報処理関連授業の補佐 (Apr. 2026 - )
 
 ## Internship
+
 1. Research about LTE locational characteristic @ Advanced Wireless and Communication Research Center (AWCC), UEC (Aug. 17th - 23rd, Sep. 4th-8th, 2024)
 2. Network simulation for Beyond 5G @ 構造計画研究所, KKE (Aug. 18th - 29th, 2025)
 
-  
 # Extracurricular Activities
+
 - IEICE Ambassador (Apr. 2023 - Mar. 2026)
 - XPLANE Facilitator (Apr. 2023 - )
 
 # Awards & Honors
+
 1. 東京都産業教育振興会賞 (Mar. 2025)
-2. 
+2.
 
 # Funds
-1. 
+
+1.
 
 ---
 
 # Skill & Certification
+
 1. TOEIC 740 (Jun. 2025)
 2. C, Python
 3. 乙種危険物取扱者
@@ -102,6 +119,7 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 5. 第1種陸上特殊無線技士
 
 # Contact Information
+
 - Email: TBD
 - Office: room 596, Building 8
 - TEL: None
@@ -113,8 +131,7 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 const last = new Date(document.lastModified);
 const viewDateText = last.getFullYear() + "/" + (last.getMonth() + 1) + "/" + (last.getDate());
 document.getElementById('modified_date').textContent = viewDateText;
-</script></body> 
-
+</script></body>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VMSBYQT27R"></script>
