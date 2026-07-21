@@ -53,7 +53,7 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 
 ## Keywords
 
-- Chirality-induced spin (CISS) effect
+- Chirality-induced spin selectivity (CISS) effect
 - Density function theory (DFT)
 
 # Academic Society
