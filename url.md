@@ -4,7 +4,9 @@ layout: page
 ---
 
 ## 数学・物理
+
 ### 全般
+
 1. [物理とか][Physics_andSon]{:target="_blank"}
 2. [数学：物理を学び楽しむために][math]{:target="_blank"}
 3. [物理ノート by 永井][nagai]{:target="_blank"}
@@ -30,6 +32,7 @@ layout: page
 [takeuchi]: https://dora.bk.tsukuba.ac.jp/~takeuchi/
 
 ### 統計力学・物性
+
 1. [Common and Less Common Magnets and Metals][magnets_metals]{:target="_blank"}
 2. [高橋和考先生のNote][KT]{:target="_blank"}
 3. [金澤輝代士先生の講義ノート][kanazawa]{:target="_blank"}←論文の書き方についても掲載有
@@ -45,14 +48,16 @@ layout: page
 [NoteOnPhysics]: https://phyx.readthedocs.io/en/latest/index.html
 
 ### 相対論・電磁気学
+
 1. [相対論の理解とその周辺][Relativ_Touhoku]{:target="_blank"}
-2. 
+2.
 
 [Relativ_Touhoku]: https://home.hirosaki-u.ac.jp/relativity/
 
 ---
 
 ## 工学
+
 1. [RFInsights][RFIN]{:target="_blank"}
 2. [WOKWI][wokwi]{:target="_blank"}：電子回路シミュレータ
 
@@ -62,6 +67,7 @@ layout: page
 ---
 
 ## 英語
+
 1. [物理の英語][butsurinoeigo]{:target="_blank"}
 2. [科学英文のチェックマニュアル (第７版)][english-check-munual]{:target="_blank"}
 3. [][]{:target="_blank"}
@@ -71,7 +77,16 @@ layout: page
 
 ---
 
+## プログラミング
+
+1. [とほほのPython入門][tohoho-python]{:target="_blank"}
+
+[tohoho-python]: https://www.tohoho-web.com/python/index.html
+
+---
+
 ## ブログ等
+
 1. [SEGA TECH BLOG][SEGA]{:target=":_blank"}
 2. [arutema47's blog][arutema47's blog]{:target="_blank"}：LiDARやアナログ回路の研究者のブログ
 
@@ -81,7 +96,9 @@ layout: page
 ---
 
 ## 研究
+
 ### 研究のやり方・論文の書き方
+
 1. [研究がうまくいかない根本的な理由][why-little-progress]{:target="_blank"}
 2. [博士論文執筆の際にお願いしたいこと][dron]{:target="_blank"}
 3. [(修士/博士/普通の)論文執筆の際にお願いしたいこと、その二][dron2]{:target="_blank"}
@@ -102,8 +119,8 @@ layout: page
 [awardPoster]: https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/
 [paper-revise]: https://www.isee.nagoya-u.ac.jp/~okumura/files/Makishima_Revise_v2.pdf
 
-
 ### 論文向けツール
+
 1. [aqrxix][aqrxix]{:target="_blank"}
 ：arXivのQRコードを作成できる
 2. [Circuit2TikZ][Circuit2TikZ]
@@ -123,9 +140,11 @@ layout: page
 [mathcha]: https://www.mathcha.io/
 
 ---
+
 ## キャリア
 
 ### 申請書・履歴書・推薦書
+
 1. [学振特別研究員になるために〜2026年度申請版][Z1R7D2-gakushin2026]{:target="_blank"}
 2. [CV/Resume][cv-resume]{:target="_blank"}
 3. [Writing An Academic Biography][Academic-Biography]{:target="_blank"}
@@ -140,6 +159,7 @@ layout: page
 [scholarship]: https://kn1cht.github.io/doctor-funding-calendar/
 
 ### その他
+
 1. [JREC-IN Portal][JREC-IN Portal]{:target="_blank"}
 2. [JREC-IN Portalのみかた][JREC-IN Portal_see]{:target="_blank"}
 3. [有田亮太郎先生へのインタビュー - Share Your Story][arita]{:target="_blank"}
@@ -157,6 +177,7 @@ layout: page
 ---
 
 ## 素材
+
 1. [Simple Icons][icon]{:target="_blank"}
 2. [shields.io][shields]{:target="_blank"}
 3. [OpenStreetMap][openstreetmap]{:target="_blank"}
@@ -173,7 +194,6 @@ layout: page
 [math-nyushi]: https://nyushi-kakomon.com/
 [nasa_eye]: https://science.nasa.gov/eyes/
 
-
 ---
 <body><p>Last updated: <time id="modified_date"></time></p><script>
 // ステップ1：HTMLファイルの最終更新日を取得
@@ -182,4 +202,4 @@ const last = new Date(document.lastModified);
 const viewDateText = last.getFullYear() + "/" + (last.getMonth() + 1) + "/" + (last.getDate());
 // ステップ4：更新日の表示先のHTMLの"time"タグを上書き
 document.getElementById('modified_date').textContent = viewDateText;
-</script></body> 
+</script></body>
