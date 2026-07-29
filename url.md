@@ -80,8 +80,11 @@ layout: page
 ## プログラミング
 
 1. [とほほのPython入門][tohoho-python]{:target="_blank"}
+2. [忙しい研究者のためのテストコードとドキュメントの書き方][python-test]{:target="_blank"}
 
 [tohoho-python]: https://www.tohoho-web.com/python/index.html
+[python-test]: https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a
+
 
 ---
 
