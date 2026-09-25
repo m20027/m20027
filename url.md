@@ -39,6 +39,7 @@ layout: page
 4. [低温物質科学][centershi]{:target="_blank"}
 5. [UNLOC][UNLOC]{:target="_blank"}: Ultrafast NonLinear Optical Characterization Group
 6. [Notes on Physics][NoteOnPhysics]{:target="_blank"}
+7. [The Net Advance of Physics: SPECIAL BIBLIOGRAPHIES, No.2][BIBLIOGRAPHIES]{:target="_blank"}
 
 [magnets_metals]: https://berman-shoenberg.blogspot.com/
 [KT]: https://note.com/ktaka324
@@ -46,6 +47,7 @@ layout: page
 [centershi]: https://www.ltm.kyoto-u.ac.jp/centershi/index.html
 [UNLOC]: https://sites.psu.edu/gopalan/
 [NoteOnPhysics]: https://phyx.readthedocs.io/en/latest/index.html
+[BIBLIOGRAPHIES]: https://web.mit.edu/redingtn/www/netadv/biblio2.html#strintsys
 
 ### 相対論・電磁気学
 
@@ -84,7 +86,6 @@ layout: page
 
 [tohoho-python]: https://www.tohoho-web.com/python/index.html
 [python-test]: https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a
-
 
 ---
 

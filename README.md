@@ -31,6 +31,7 @@ Kazuaki Oyama was born in Chiba, Japan in 2004. He learned basic electrical expe
   - Distributed wireless network lab, PI: Kei Inage (Apr. 2023 - Mar. 2025)
 - [Department of Physics, Faculty of Science][TMU_Phys]{:target="_blank"}, [Tokyo Metropolitan University][TMU]{:target="_blank"}, Tokyo, Japan (Apr. 2025)
   - [Computational Materials Science lab][nomoto-lab]{:target="_blank"}, PI: Takuya Nomoto (Apr. 2026 - )
+- Department of Physics, Graduate School of Science, Tokyo Metropolitan University, Tokyo, Japan (Apr. 2027, expected)
 
  [nomoto-lab]: https://sites.google.com/view/nomotogroup
  [TMCIT]: https://www.metro-cit.ac.jp/
