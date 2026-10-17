@@ -90,8 +90,10 @@ layout: page
 ### Julia
 
 1. [Modern Julia Workflows][MJW]{:target="_blank"}
+2. [Julia Scientific Modeling Quick Reference][JSMQR]{:target="_blank"}
 
 [MJW]: <https://modernjuliaworkflows.org/>
+[JSMQR]: https://sciml.github.io/Julia_Modeling_Workshop/Julia_Scientific_Modeling_Quick_Reference
 
 ---
 
