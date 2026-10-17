@@ -87,6 +87,12 @@ layout: page
 [tohoho-python]: https://www.tohoho-web.com/python/index.html
 [python-test]: https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a
 
+### Julia
+
+1. [Modern Julia Workflows][MJW]{:target="_blank"}
+
+[MJW]: <https://modernjuliaworkflows.org/>
+
 ---
 
 ## ブログ等
