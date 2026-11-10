@@ -5,8 +5,6 @@ layout: page
 
 <div style="text-align: center;"><img src="https://m20027.github.io/m20027/assets/images/IMG_0644.jpeg" width="30%"></div>
 
-<div style="text-align: center;"><img src="https://m20027.github.io/m20027/assets/images/IMG_0644.jpeg" width="30%"></div>
-
 ---
 <body><p>Last updated: <time id="modified_date"></time></p>
 <script>
