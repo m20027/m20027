@@ -56,6 +56,7 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 
 - Chirality-induced spin selectivity (CISS) effect
 - Density function theory (DFT)
+- Non-equilibrium green's function (NEGF)
 
 # Academic Society
 
@@ -84,9 +85,9 @@ Associate Degree in Department of Electrical and Electronic Engineering Program,
 ## TA
 
 1. Student Assistant (SA) (2022 - 2023)
-    - Teach electromagnetism and so on to student @ Tokyo Metropolitan College of Industrial Technology
+    - Teach electromagnetism and electrical circuit to student @ Tokyo Metropolitan College of Industrial Technology
 2. 探求学習SA (Jun. 2025 - )
-   - 高校生への探求学習支援 @ Sagamihara high school, TMU
+   - 高校生への探求学習支援 @ Sagamihara high school, TMU...
 3. 学内の生涯学習支援活動の運営補助 (Sep. 2025 - )
 4. 情報処理関連授業の補佐 (Apr. 2026 - )
 
